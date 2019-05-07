@@ -2,4 +2,4 @@
 
 ## twitchtime.sh
 
-launches mpv in a certian profile depending on the time, see [mpv.conf]() for profiles
+launches mpv in a certian profile depending on the time, see [mpv.conf](https://github.com/ioangogo/random-stuff/blob/master/Configs/mpv/mpv.conf) for profiles
